@@ -2,7 +2,7 @@
 
 The script is used to simulate fake data sets according to the guidelines of the `fakeit` in *Xspec*, **Heaosft**
 
-### Instructions
+### Instructions:
 
 - Load a dataset in Xspec and obtain the best fit parameters
 - Save it to a `.xcm` file
